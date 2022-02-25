@@ -1,0 +1,48 @@
+.bg-foot{
+    background-color: rgba(31,31,31,1);
+}
+.lr-links a{
+    color: white;
+    text-decoration: none;
+}
+.bold{
+    font-weight: 900;
+}
+.btn-orange-moon{
+    background: #f23e36;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,#ff5757,#d02035);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,#ff5757,#d02035); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+}
+.footerico{
+    color: rgba(242,62,54,1);
+}
+.shareico{
+    color: rgba(0,0,0,1);
+}
+.sr-links a{
+    color: #000000;
+    text-decoration: none;
+}
+.dropdown-menu li {
+    position: relative;
+}
+.dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+}
+.dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+}
+.dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+}
+.carousel-inner {
+    max-height: 400px;
+}
+.car-img {
+    max-height: 400px;
+}
